@@ -1,0 +1,1 @@
+print("PyCharm is running correctly.")
